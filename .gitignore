@@ -1,0 +1,8 @@
+/target
+.classpath
+.project
+.settings
+log.txt
+.idea
+.cf
+test-app.iml
